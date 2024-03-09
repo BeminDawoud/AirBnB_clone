@@ -73,4 +73,5 @@ What you should learn from this project:
 ---
 
 ## Author
-* **Ayomide Suara** - [aysuarex](https://github.com/aysuarex)
+* **Mohammed Alshayb** - [Mohamed](https://github.com/mohamed-eg)
+* **MBemin Dawoud** - [Mohamed](https://github.com/BeminDawoud)
